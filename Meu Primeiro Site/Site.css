@@ -1,0 +1,228 @@
+html, body {
+    margin: 0;
+}
+body {
+    line-height: 35px;
+}
+header {
+    background-color: rgb(0, 2, 7);
+    color:white;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+}
+#logo {
+    width: 96px;
+    position: absolute;
+    top: 10px;
+    margin-left: 5%;
+}
+h3 {
+    text-align: center;
+}
+#menu {
+    float: right;
+    margin-right: 4%;
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+}
+li {
+    float: left;
+    padding: 10 15 10 15;
+}
+li:hover {
+    background-color: rgb(0, 129, 168) ;
+}
+.menu {
+    color: white;
+    text-decoration: none;
+}
+#Imagem_fundo {
+    background: url(img/Fundo.jpg) -200px no-repeat;
+    height: 100%;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+#titulo {
+    color: white;
+    padding-top: 15%;
+    font-size: 65px;
+    padding-left: 550px;
+}
+
+#subtitulo {
+    color: whitesmoke;
+    padding-left: 55%;
+    font-size: 25px;
+}
+#acao {
+    color: white;
+    border: 1px white solid;
+    padding: 7px 7px 7px 7px;
+    text-decoration: none;
+    margin-left: 55%;
+}
+main {
+    background: #c7f0f0;
+    padding: 30px 30px;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+.cons {
+    background: #c7f0f0;
+    padding: 30 0 30 0;
+    margin-top: 20px;
+    border-radius: 15px;
+    margin: 20 50 20 50;
+}
+.px {
+    width: 51px;
+}
+#Tema {
+    background-color:#a6dede;
+    padding: 50px 50px;
+    text-align: justify;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#Causas {
+    padding: 60 0 40 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f7f7f7;
+}
+.selection {
+    float: left;
+    position: relative;
+    padding: 0 5%;
+    width: 10%;
+    overflow: hidden;
+    font-size: 14px;
+    line-height: 20px;
+}
+#CF {
+    padding: 50 100 30 100;
+    background-color:#a6dede;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}   
+#In {
+    padding: 50 100 30 100;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+    
+#Ds {
+    padding: 50 100 30 100;
+    background-color:#a6dede;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+#Ag {
+    padding: 50 100 30 100;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}   
+#Lx {
+    padding: 50 100 30 100;
+    background-color:#a6dede;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+.px:hover {
+    background-color: rgb(0, 129, 168);
+    border-radius: 100%;
+    padding: 8px;
+}
+.video {
+    display: block;
+    margin: auto;
+    width: 70%;
+    height:50%;
+}
+#Consequências {
+    padding: 60 0 60 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#a6dede ;
+    clear: both;
+}
+.effects {
+    text-align: center;
+    font-size: 16px;
+    line-height: 20px;
+}
+.consequences {
+    padding-left: 16%;
+    padding-right: 16%;
+}
+.not {
+    width: 100%;
+    height: 50%;
+    padding-top: 10%;
+    padding-bottom: 10% ;
+}
+#Sobre {
+    background-color:#f7f7f7;
+}
+.coluna {
+    float: left;
+    padding: 0 5%;
+    position: relative;
+}
+.dois {
+    width: 40%;
+    font-size: 16;
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer {
+    background-color: rgb(0, 2, 7);
+    clear: both;
+    float: left;
+    width: 100%;
+    height: 27%;
+    color: white;
+}
+.footer {
+    margin: 20px 0 0 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20px;
+}
+.Frase {
+    color: #00830b;
+    font-weight: 900px;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#Ods13 {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 40 120 20 120;
+}
+.sub {
+        color: black;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 35px;
+}
+.text {
+    text-align: center;
+}
+.justify {
+    text-align: justify;
+}
+
+.colabore {
+background-color: #0d3b3b;
+color: white; 
+margin: 30 200 30 200; 
+padding: 25 25; 
+font-size: 38; 
+line-height: 45px; 
+font-family: 'Times New Roman', Times, serif;
+}
