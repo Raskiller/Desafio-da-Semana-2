@@ -169,6 +169,7 @@ main {
 }
 #Sobre {
     background-color:#f7f7f7;
+    margin-top: 30px;
 }
 .coluna {
     float: left;
@@ -218,11 +219,52 @@ footer {
 }
 
 .colabore {
-background-color: #0d3b3b;
+background-color: #0d272e;
 color: white; 
 margin: 30 200 30 200; 
 padding: 25 25; 
 font-size: 38; 
 line-height: 45px; 
 font-family: 'Times New Roman', Times, serif;
+}
+  
+.username {
+    margin-top: 20px;
+    color: black;
+    font-size: 30px;
+}
+  
+.comment {
+    margin: -20 20 10 20;
+    overflow: hidden;
+    display: block;
+    color: black;
+    font-size: 22px;
+    line-height: 25px;
+    text-align: center;
+}
+
+.test {
+      float: auto;
+}
+
+.column {
+    float: left;
+    width: 31%;
+    margin: 20px 1.15%;
+    height: 160px;
+    background-color: #64a1a1; 
+    overflow: hidden;
+    border-radius: 10px;
+    
+}
+
+.solution {
+    overflow: hidden;
+    background-color: #a6dede;
+    border-radius: 5px;
+}
+
+#Ajude {
+    padding: 38 25 10 25;
 }
